@@ -6,7 +6,6 @@
   <packaging>war</packaging>
   <name>SpringMvcDataCheck</name>
   <dependencies>
-  
   <!-- hibernate框架   可用于JSR 303 是java为Bean数据合法性检验所提供的标准框架  -->
   <dependency>
 	  <groupId>org.hibernate</groupId>
